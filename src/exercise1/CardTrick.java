@@ -57,7 +57,7 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Joshua Encinas Valador, but you can call me Joshua, Josh or Student 991710344 );
+        System.out.println("My name is Joshua Encinas Valador, but you can call me Joshua, Josh or Student 991710344");
         System.out.println();
         
         System.out.println("My career ambitions:");
