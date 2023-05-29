@@ -52,7 +52,8 @@ public class CardTrick {
      * @author Paul Bonenfant Jan 2022
      */
     private static void printInfo() {
-    
+        
+        System.out.println("Im Done")
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
@@ -70,7 +71,7 @@ public class CardTrick {
         System.out.println("-- Watching sports and play games");
         System.out.println("-- Coding and learning new as much as I can about computer sciences");
 
-        System.out.println();
+        System.out.println("Im Done");
         
     
     }
